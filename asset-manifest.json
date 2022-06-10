@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/proyectcafeyletras/static/css/main.f100f4b7.css",
-    "main.js": "/proyectcafeyletras/static/js/main.d4491ebb.js",
+    "main.js": "/proyectcafeyletras/static/js/main.2f63d780.js",
     "static/media/userdondo.png": "/proyectcafeyletras/static/media/userdondo.906de984a4b4434d1a81.png",
     "static/media/foto1.jpg": "/proyectcafeyletras/static/media/foto1.e89d78480f42ac210aec.jpg",
     "static/media/usuariofoto.png": "/proyectcafeyletras/static/media/usuariofoto.f957c0172334518ea1b9.png",
@@ -9,10 +9,10 @@
     "static/media/logotipo.svg": "/proyectcafeyletras/static/media/logotipo.620f6b4427cac93e634495b36f93e9be.svg",
     "index.html": "/proyectcafeyletras/index.html",
     "main.f100f4b7.css.map": "/proyectcafeyletras/static/css/main.f100f4b7.css.map",
-    "main.d4491ebb.js.map": "/proyectcafeyletras/static/js/main.d4491ebb.js.map"
+    "main.2f63d780.js.map": "/proyectcafeyletras/static/js/main.2f63d780.js.map"
   },
   "entrypoints": [
     "static/css/main.f100f4b7.css",
-    "static/js/main.d4491ebb.js"
+    "static/js/main.2f63d780.js"
   ]
 }
